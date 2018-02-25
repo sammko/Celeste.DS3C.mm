@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Celeste.DS3C.mm", "Celeste.DS3C.mm.csproj", "{F487A2E8-60F5-4A3D-9724-D8BE25C405FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F487A2E8-60F5-4A3D-9724-D8BE25C405FA}.Debug|x86.ActiveCfg = Debug|x86
+		{F487A2E8-60F5-4A3D-9724-D8BE25C405FA}.Debug|x86.Build.0 = Debug|x86
+		{F487A2E8-60F5-4A3D-9724-D8BE25C405FA}.Release|x86.ActiveCfg = Release|x86
+		{F487A2E8-60F5-4A3D-9724-D8BE25C405FA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
